@@ -25,4 +25,4 @@ Built with fictional data to show how I work:
 Logo Tiger 3 · Excel · Google Workspace · Trello · Asana · Notion · Slack · Zoom · n8n · Python · SQLite · Git
 
 ## Certifications
-Google Advanced Data Analytics Certificate (2026) · ALX Virtual Assistant Programme (2025) · BA Marketing, Girne American University
+Google Advanced Data Analytics Certificate (2026) · ALX Virtual Assistant Programme (2025)
