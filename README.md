@@ -7,7 +7,7 @@ Nearly 8 years in sales and after-sales support, now working remotely with Excel
 
 🌐 **Portfolio:** [asenabeshiktepeli.github.io](https://asenabeshiktepeli.github.io)  
 📄 **CV:** [Download PDF](https://asenabeshiktepeli.github.io/static/cv/Asena_Beshiktepeli_CV.pdf)  
-✉️ **Email:** asenabeshiktepeli@gmail.com
+✉️ **Email:** `asenabeshiktepeli@gmail.com` · [Write in Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=asenabeshiktepeli@gmail.com)
 
 ## What I do
 - Customer support by email and chat, including complaints and returns
