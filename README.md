@@ -18,7 +18,7 @@ Nearly 8 years in sales and after-sales support, now working remotely with Excel
 
 ## Sample projects
 Built with fictional data to show how I work:
-- [Customer Request Automation (n8n)](https://asenabeshiktepeli.github.io/#work): form to Asana task, Google Calendar follow-up and Google Sheets log, with a 1-minute demo video
+- [Customer Request Automation (n8n)](https://asenabeshiktepeli.github.io/?ref=github-readme#work): form to Asana task, Google Calendar follow-up and Google Sheets log, with a 1-minute demo video
 - [Order Tracking Sheet](https://docs.google.com/spreadsheets/d/1qmdii_crHkBCz38AoZM4wB0z7KvREubd9FTeGDE5Ieg/preview): live dashboard and daily follow-up list
 - [Customer Support Response Library](https://docs.google.com/document/d/1xYm1fliueMGKPDli2UzKeNNLda1rVmu8jLQrLuVwvgo/edit?usp=sharing): 10 reply templates with escalation rules
 - [Data Cleanup Before/After](https://docs.google.com/spreadsheets/d/15lbhsX5VS6nrGrRYlrYHuI1Cgy2hru-fDLFgh4He9sY/preview): a messy export cleaned with reusable formulas
