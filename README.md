@@ -5,7 +5,7 @@
 I help e-commerce businesses answer customers faster, track orders clearly and keep their data clean.
 Nearly 8 years in sales and after-sales support, now working remotely with Excel, Google Sheets and simple automations in n8n and Python.
 
-🌐 **Portfolio:** [asenabeshiktepeli.github.io](https://asenabeshiktepeli.github.io)  
+🌐 **Portfolio:** [asenabeshiktepeli.github.io](https://asenabeshiktepeli.github.io/?ref=github-readme)
 📄 **CV:** [Download PDF](https://asenabeshiktepeli.github.io/static/cv/Asena_Beshiktepeli_CV.pdf)  
 ✉️ **Email:** [asenabeshiktepeli@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=asenabeshiktepeli@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/asena-beshiktepeli](https://www.linkedin.com/in/asena-beshiktepeli)
